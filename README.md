@@ -1,0 +1,13 @@
+#parcel
+- Dev build
+- Lcoal Server
+- HMR = Hot module replacement
+- Parcel is using file watching algorithm - written in C++
+- Parcel is using a lot of caching
+- Parcel is actually do image optimization
+- Minification , bundling , compressing file, consistent hashing, code splitting
+- Differntial bundling = support older browsers
+- Diagnostic
+- Error Handling
+- Host your app at HTTPs
+- Tree shaking = remove unused code for you
